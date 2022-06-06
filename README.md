@@ -1,4 +1,4 @@
-# TrinityTerraces
+# Figures for manuscript on terraces on the Trinity River, Texas
 Code for generating figures of my ESurf paper: A multi-proxy assessment of terrace formation in the lower Trinity River 
 Valley, Texas. This file contains the code to load and plot plot the data for Figure 4 - 5, 7 - 12. 
 
