@@ -8,17 +8,17 @@ Valley, Texas. This file contains the code to load and plot plot the data for Fi
 median and interquartile range of UTM northing, easting, elevation, and detrended elevation as well as 
 terrace ids of adjacent lower and higher terraces. The minimum bounding box width and length are also 
 included.
-* S2: Terrace_5m_elevation_detrended_elevation.csv: includes all elevation and detrended elevations at 
+* S2 Terrace_5m_elevation_detrended_elevation.csv: includes all elevation and detrended elevations at 
 the 5m DEM resolution and including their coordinates, corresponding terrace and terrace classification. 
-* S3: Terrace_10m_valley_plane_elevation.csv: includes the corresponding elevations on terraces from 
+* S3 Terrace_10m_valley_plane_elevation.csv: includes the corresponding elevations on terraces from 
 the best-fit plane to the modern valley data.
-* S4: Trinity_Terraces_Plane_Fitting_output.csv: includes the RMSE of a best-fit plane fitted to the high, 
+* S4 Trinity_Terraces_Plane_Fitting_output.csv: includes the RMSE of a best-fit plane fitted to the high, 
 intermediate and low Deweyville terraces as well as the RMSE of randomly classified terrace sets.
-* S5: Paleochannel_summary.csv: includes all paleochannel specific data including paleochannel id, mean 
+* S5 Paleochannel_summary.csv: includes all paleochannel specific data including paleochannel id, mean 
 and standard deviation of width, length of paleochannel, corresponding terrace id and terrace 
 classification, assigned representative grain size, number of channel bends preserved, and channel bend
 appear to preserve bend cut-off.
-* S6: Paleochannel_bends_on_terraces.csv: includes a closer look at the paleochannel bends preserved 
+* S6 Paleochannel_bends_on_terraces.csv: includes a closer look at the paleochannel bends preserved 
 on each terrace and aggregates the total number of bends on each terraces, the maximum number of 
 bends related to on generation of channel, and the maximum number of bends for one continuous 
 channel segment. 
