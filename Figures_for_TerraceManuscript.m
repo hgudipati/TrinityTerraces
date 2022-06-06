@@ -1,4 +1,4 @@
-%% Code for replicating figures in 
+%% Code for replicating figures in Trinity Terrace manuscript
 % A multi-proxy assessment of terrace formation in the lower Trinity River 
 % Valley, Texas 
 % This file contains the code to load and plot plot the data for 
