@@ -25,10 +25,10 @@ channel segment.
 
 ## Output:
 
-* Figure 4: Median terrace elevation and (B) detrended elevation for the 52 terraces along the N-S trending valley, 
+* Figure 4. Median terrace elevation and (B) detrended elevation for the 52 terraces along the N-S trending valley, 
 S7: PaleochannelWidthsMeasurements includes all width measurements for each paleo-channel used 
 to find the mean and standard deviation of width as well as the length of the paleochannel in S5.
-* Figure 5: Distributions of detrended elevations for terraces classified by Garvin (2008).  
+* Figure 5. Distributions of detrended elevations for terraces classified by Garvin (2008).  
 * Figure 7. Root mean square error (RMSE) of a plane fit to elevation points of terraces previously classified as high Deweyville, intermediate Deweyville, and low Deweyville in the Trinity River valley compared to  distribution of RMSE from 150,000 randomly grouped terraces.
 * Figure 8. Paleo-channel widths and paleo-discharge estimates. (A) Elevation transects for six paleo-channels (T1-T6). Transects are taken from locations indicated in (B)-(D) with mapped paleo-channels outlined in blue and terrace extents mapped outlined in grey. (E) Paleo-discharge estimates for the Trinity River are plotted as a function of their width. Each paleo-discharge was calculate using preserved channel width measurements and the discharge-width relationship from Wilkerson and Parker (2011) (Eq. 1). Error bars represent the first and third quartile of paleo-channel discharge estimates.
 * Figure 9. Paleo-discharge estimates for the Trinity River plotted as a function of their associated detrended terrace elevations. 
